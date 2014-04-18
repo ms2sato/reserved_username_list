@@ -11,7 +11,7 @@ https://github.com/ms2sato/reserved_username_list/blob/master/list.txt
 * https://github.com/rono23/reserved_word/blob/master/lib/reserved_word/word/site_slug.rb
 
 
-マージするプログラム書いた。
+マージするプログラム書いた。list.txtにマージした内容が標準出力に返ってくるのであとは適当にしてください。
 
 ```
 node ./tools/merge.js ./resources/reserverd_word >tmp.txt
