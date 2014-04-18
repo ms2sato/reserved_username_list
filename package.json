@@ -1,0 +1,22 @@
+{
+  "name": "reserved_username_list",
+  "version": "0.0.1",
+  "description": "reserved username list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ms2sato/reserved_username_list.git"
+  },
+  "author": "ms2sato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ms2sato/reserved_username_list/issues"
+  },
+  "homepage": "https://github.com/ms2sato/reserved_username_list",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  }
+}
